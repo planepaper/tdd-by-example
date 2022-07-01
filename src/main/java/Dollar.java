@@ -1,5 +1,3 @@
-package main;
-
 public class Dollar
 {
     public int amount;
