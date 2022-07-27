@@ -47,7 +47,7 @@ class MoneyTest
     }
 
     @Test
-    public void testReduceSum()
+    public void testReduceMoney()
     {
         Expression sum = new Sum(Money.dollar(3), Money.dollar(4));
         Bank bank = new Bank();
